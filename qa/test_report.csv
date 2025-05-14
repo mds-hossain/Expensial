@@ -1,0 +1,11 @@
+Test ID,Test Case,Status,Remarks
+1,Add Transaction,Pass,Transaction added successfully
+2,View Dashboard,Pass,Dashboard displayed correctly
+3,Invalid Amount,Fail,Amount validation didn't trigger
+4,Empty Description,Pass,Error displayed for missing description
+5,Category Input,Pass,Category saved correctly
+6,Delete Transaction,Pass,Transaction deleted successfully
+7,Edit Transaction,Pass,Transaction edited successfully
+8,Responsive Design,Pass,Layout responsive on resize
+9,Invalid Data,Fail,No validation message for missing data
+10,Export to CSV,Pass,CSV file exported correctly

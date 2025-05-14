@@ -1,0 +1,11 @@
+Bug ID,Bug Description,Steps to Reproduce,Severity,Status
+1,Transactions not saving correctly,Add transaction with valid data and refresh,High,Open
+2,Incorrect dashboard balance,View dashboard after adding transactions,Medium,Open
+3,App crashes on invalid data,Submit form with empty amount field,High,Open
+4,Responsive issue on mobile,Resize browser on small screen,Low,Closed
+5,Category not saving,Submit form without selecting category,High,Open
+6,Missing validation message,Submit form with empty fields,High,Open
+7,Transaction amount field allows negative values,Submit form with negative amount,Medium,Closed
+8,Dashboard UI overflow,Resize browser,Medium,Open
+9,Error message not showing for invalid data,Submit form with incomplete data,High,Open
+10,CSV export fails with empty transactions,Click export with no data,Medium,Closed

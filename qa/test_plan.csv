@@ -1,0 +1,13 @@
+Test ID,Test Scenario,Description,Expected Outcome
+1,Add Transaction,Test adding a valid transaction,Transaction should be added to the database
+2,View Dashboard,Test viewing the dashboard with data,Dashboard should display total income, expenses, and balance
+3,Invalid Amount,Test adding a transaction with invalid amount,Should show error or not allow submission
+4,Empty Description,Test adding transaction with no description,Should show error message
+5,Category Input,Test adding a transaction with valid category,Transaction should be saved with the correct category
+6,Display Transactions,Test viewing transactions in the dashboard,All transactions should be listed correctly
+7,Delete Transaction,Test deleting a transaction,Transaction should be removed from the database
+8,Edit Transaction,Test editing an existing transaction,Transaction details should be updated
+9,Responsive Design,Test application on different screen sizes,App should be responsive
+10,Invalid Data,Test submitting invalid data,Should show appropriate validation messages
+11,Export to CSV,Test exporting transaction data to CSV,CSV file should match displayed data
+12,Error Handling,Test adding transaction with missing fields,Should show error message and not submit data

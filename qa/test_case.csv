@@ -1,0 +1,11 @@
+Test ID,Test Case,Steps,Expected Outcome
+1,Add Transaction,Fill form with valid data and submit,Transaction should be added successfully
+2,View Dashboard,Click on dashboard link,Should display total income, total expenses, and balance
+3,Invalid Amount,Submit transaction with invalid amount,Should show validation error
+4,Empty Description,Submit transaction with empty description,Should show validation error
+5,Category Input,Submit transaction with valid category,Transaction should be saved with correct category
+6,Delete Transaction,Click on delete button on a transaction,Transaction should be removed from database
+7,Edit Transaction,Click on edit button,Transaction should be updated
+8,Responsive Design,Resize browser,Layout should adjust to the screen size
+9,Invalid Data,Submit incomplete data,Should show validation message
+10,Export to CSV,Click on export button,CSV file should be generated with correct data
