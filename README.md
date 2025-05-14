@@ -3,19 +3,10 @@
 
 ## 📑 Table of Contents
 1. [🧾 Introduction](#introduction)
-   - Project Name
-   - Project Description
-   - Technologies Used
 2. [✨ Features](#features)
 3. [🛠️ How to Use](#how-to-use)
 4. [⚙️ Installation](#installation)
 5. [QA Process](#qa-process)
-   - Detailed QA Process
-   - Which Testing Skills and Methods Were Used
-   - Results and Outcome
-   - Details About the QA Directory
-   - Summary
-   - Conclusion
 6. [📝 License](#license)
 
 ---
